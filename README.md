@@ -1,3 +1,3 @@
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyAtlasX&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chead-z&theme=dark)]
